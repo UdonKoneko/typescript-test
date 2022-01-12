@@ -1,0 +1,22 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdonKoneko/typescript-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UdonKoneko/typescript-test/issues"
+  },
+  "homepage": "https://github.com/UdonKoneko/typescript-test#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
